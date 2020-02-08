@@ -1,4 +1,4 @@
-import {createContext} from 'react-native';
+import {createContext} from 'react';
 
 const itemContext = createContext();
 
